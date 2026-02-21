@@ -1,4 +1,4 @@
-# Asenkron.yolculugu
+# Asenkron
 Asenkron konusunun mantığını öğrendiğim başlangıç alıştırmalarım 
 Promise : Mantığını anlamak için aşama aşama 3 örnek
 Fetch Apı : Veri çekme pratiği 
