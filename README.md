@@ -32,7 +32,7 @@ Note: I will build a comprehensive asynchronous project after completing this 7-
 
 Today, I moved away from .then() chains and embraced the modern way of writing asynchronous code.
 
-* Async/Await: Learned how to write asynchronous code that looks and behaves like synchronous code using the `async` and `await` keywords.
-* Proffesional Error Handling : Implemented `try-catch` blocks to manage errors.
+* Async/Await: Learned how to write asynchronous code that looks and behaves like synchronous code using the async and await keywords.
+* Proffesional Error Handling : Implemented try-catch blocks to manage errors.
 
 Note: I will build a comprehensive asynchronous project after completing this 7-day challenge. ( 3/7 )
