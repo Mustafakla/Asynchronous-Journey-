@@ -7,7 +7,7 @@ My initial exercises to understand the core logic of Asynchronous programming.
 
 *Fetch API: Practice on fetching data.
 
-Note: I will build a comprehensive asynchronous project after completing this 7-day challenge. ( 1/7 )
+
 
 
 
@@ -23,7 +23,6 @@ Today, I explored how to manage multiple asynchronous operations and process dat
 
 *Error Handling: Used throw new Error with !response.ok to handle HTTP errors professionally. 
 
-Note: I will build a comprehensive asynchronous project after completing this 7-day challenge. ( 2/7 ) 
 
 
 
@@ -35,4 +34,12 @@ Today, I moved away from .then() chains and embraced the modern way of writing a
 * Async/Await: Learned how to write asynchronous code that looks and behaves like synchronous code using the async and await keywords.
 * Proffesional Error Handling : Implemented try-catch blocks to manage errors.
 
-Note: I will build a comprehensive asynchronous project after completing this 7-day challenge. ( 3/7 )
+
+
+
+
+-------Day 4: Working with Real-World APIs--------
+
+
+Today, I practiced fetching live data from a real API (JSONPlaceholder) and manipulating it.
+
